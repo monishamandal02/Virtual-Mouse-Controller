@@ -19,7 +19,15 @@ Python version must be above 3.8 64bit.
    ```bash
    git clone 
    ```
-2. pip3 install mediapipe, pip3 install autopy, pip3 install numpy.
-3. Run the ```AIVirtualMouse.py``` python file.
+3. ```bash
+   pip3 install mediapipe 
+   ```
+4. ```bash
+   pip3 install autopy 
+   ```
+5. ```bash
+   pip3 install numpy 
+   ```
+4. Run the ```AIVirtualMouse.py``` python file.
    
 
